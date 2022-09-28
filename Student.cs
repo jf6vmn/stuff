@@ -13,5 +13,7 @@ namespace TutyiMutyiDB
         public string City { get; set; }
         public string Street { get; set; }
         public string Gender { get; set; }
+		
+		/*ez itten a teszt-ellés helye!
     }
 }
