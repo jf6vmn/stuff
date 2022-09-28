@@ -15,5 +15,7 @@ namespace TutyiMutyiDB
         public string TypeOfSubjectRequirement { get; set; }
         public string TeacherID { get; set; }
         public string InstituteResponsibleForTheSubject { get; set; }
+		
+		//ez itten a tárggy
     }
 }
